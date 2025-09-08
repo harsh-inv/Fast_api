@@ -3,10 +3,4 @@ uvicorn[standard]
 pydantic
 python-multipart
 pandas
-sqlite3
-csv
-re
-statistics
-os
 requests
-sys
